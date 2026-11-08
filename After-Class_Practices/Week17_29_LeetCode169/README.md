@@ -16,7 +16,7 @@ TODO: Document time and space complexity for the submitted solution.
 
 ## Source code
 
-Place your original code in `src/`. Keep corrections in the same directory.
+`src/main.cpp` is a starter file, not a completed solution. Replace the TODO sections with your original code. Keep corrections in the same directory.
 
 ## Validation and notes
 
